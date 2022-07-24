@@ -1,4 +1,4 @@
-package com.rockethelp;
+package com.krollite.rockehelp;
 
 import android.os.Build;
 import android.os.Bundle;
